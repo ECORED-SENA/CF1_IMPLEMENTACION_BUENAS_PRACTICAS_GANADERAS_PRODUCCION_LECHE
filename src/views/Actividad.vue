@@ -17,10 +17,11 @@ export default {
   },
   data: () => ({
     cuestionario: {
-      tema: 'Microcontroladores y sensores',
+      tema:
+        'Conocimientos clave sobre Buenas Prácticas Ganaderas en Producción de leche bovina',
       titulo: 'Cuestionario',
       introduccion:
-        '<b> Objetivo:</b> Evaluar la comprensión y el uso adecuado de las herramientas básicas en la ventana <em>Board</em> del <em>software</em> EAGLE.',
+        '<b> Objetivo:</b> Fortalecer los conocimientos sobre las Buenas Prácticas Ganaderas (BPG) aplicadas en la producción de leche bovina. ',
       barajarPreguntas: true,
       titulo_aprobado: '¡BUEN TRABAJO!..',
       titulo_reprobado: 'VUELVA A INTENTARLO..',
@@ -28,28 +29,28 @@ export default {
         {
           id: 1,
           texto:
-            '¿Cuál es la función principal de la herramienta <em>Layer</em> en la ventana <em>Board</em>?',
+            '¿Cuál de las siguientes razas de ganado se caracteriza por su alta producción lechera y bajo contenido graso?',
           imagen: require('@/assets/actividad/imagen1.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'tPlace',
-              esCorrecta: true,
+              texto: '<em>Jersey</em>.',
+              esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'bNames',
+              texto: 'Normando.',
               esCorrecta: false,
             },
             {
               id: 'c',
-              texto: 'tStop',
-              esCorrecta: false,
+              texto: '<em>Holstein</em>.',
+              esCorrecta: true,
             },
             {
               id: 'd',
-              texto: 'bValues',
+              texto: 'Blanco Orejinegro (BON).',
               esCorrecta: false,
             },
           ],
@@ -59,28 +60,28 @@ export default {
         {
           id: 2,
           texto:
-            '¿Qué herramienta permite agregar texto en la ventana <em>Board</em>?',
+            '¿Qué entidad en Colombia es responsable de la certificación de las BPG?',
           imagen: require('@/assets/actividad/imagen2.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'tPlace',
-              esCorrecta: true,
+              texto: 'Ministerio de Agricultura y Desarrollo Rural.',
+              esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'bNames',
+              texto: 'Federación Colombiana de Ganaderos (FEDEGAN).',
               esCorrecta: false,
             },
             {
               id: 'c',
-              texto: 'tStop',
-              esCorrecta: false,
+              texto: 'Instituto Colombiano Agropecuario (ICA). ',
+              esCorrecta: true,
             },
             {
               id: 'd',
-              texto: 'bValues',
+              texto: 'Organización Mundial de la Salud (OMS).',
               esCorrecta: false,
             },
           ],
@@ -89,28 +90,30 @@ export default {
         },
         {
           id: 3,
-          texto: '¿Para qué sirve la herramienta <em>Show</em> en EAGLE?',
+          texto:
+            '¿Cuál es el principal objetivo de implementar Buenas Prácticas Ganaderas (BPG) en la producción de leche?',
           imagen: require('@/assets/actividad/imagen3.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'tPlace',
-              esCorrecta: true,
-            },
-            {
-              id: 'b',
-              texto: 'bNames',
+              texto: 'Aumentar la cantidad de leche sin considerar su calidad.',
               esCorrecta: false,
             },
             {
+              id: 'b',
+              texto:
+                'Garantizar la inocuidad, calidad y trazabilidad de la leche.',
+              esCorrecta: true,
+            },
+            {
               id: 'c',
-              texto: 'tStop',
+              texto: 'Sustituir a los operarios por maquinaria.',
               esCorrecta: false,
             },
             {
               id: 'd',
-              texto: 'bValues',
+              texto: 'Minimizar costos de producción exclusivamente.',
               esCorrecta: false,
             },
           ],
@@ -120,29 +123,29 @@ export default {
         {
           id: 4,
           texto:
-            '¿Qué botón se utiliza para cambiar entre las ventanas <em>Schematic</em> y <em>Board</em>?',
+            '¿Cuál de los siguientes elementos NO es un principio del bienestar animal?',
           imagen: require('@/assets/actividad/imagen4.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'tPlace',
-              esCorrecta: true,
+              texto: 'Libertad de expresar comportamiento natural.',
+              esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'bNames',
+              texto: 'Libertad de dolor, miedo y angustia.',
               esCorrecta: false,
             },
             {
               id: 'c',
-              texto: 'tStop',
+              texto: 'Libertad de incomodidades físicas o térmicas.',
               esCorrecta: false,
             },
             {
               id: 'd',
-              texto: 'bValues',
-              esCorrecta: false,
+              texto: 'Libertad de sobrealimentación.',
+              esCorrecta: true,
             },
           ],
           mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
@@ -150,28 +153,29 @@ export default {
         },
         {
           id: 5,
-          texto: '¿Qué permite hacer la herramienta <em>Route</em>?',
+          texto:
+            '¿Qué tipo de ordeño permite mayor ahorro de espacio en salas de ordeño pequeñas y anchas?',
           imagen: require('@/assets/actividad/imagen1.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'tPlace',
-              esCorrecta: true,
-            },
-            {
-              id: 'b',
-              texto: 'bNames',
+              texto: 'Tándem.',
               esCorrecta: false,
             },
             {
+              id: 'b',
+              texto: 'Paralela.',
+              esCorrecta: true,
+            },
+            {
               id: 'c',
-              texto: 'tStop',
+              texto: 'Espina de pescado.',
               esCorrecta: false,
             },
             {
               id: 'd',
-              texto: 'bValues',
+              texto: 'Manual en potrero.',
               esCorrecta: false,
             },
           ],
@@ -181,29 +185,29 @@ export default {
         {
           id: 6,
           texto:
-            '¿Qué función tiene la herramienta <em>Auto</em> en la ventana <em>Board</em>?',
+            '¿Cuál es uno de los principales contaminantes químicos en la leche cruda?',
           imagen: require('@/assets/actividad/imagen2.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'tPlace',
-              esCorrecta: true,
+              texto: 'Pelo animal.',
+              esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'bNames',
+              texto: 'Fragmentos plásticos.',
               esCorrecta: false,
             },
             {
               id: 'c',
-              texto: 'tStop',
+              texto: 'Salmonella spp.',
               esCorrecta: false,
             },
             {
               id: 'd',
-              texto: 'bValues',
-              esCorrecta: false,
+              texto: 'Residuos de antibióticos.',
+              esCorrecta: true,
             },
           ],
           mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
@@ -212,28 +216,28 @@ export default {
         {
           id: 7,
           texto:
-            '¿Cuál es una recomendación al ubicar los componentes en la ventana <em>Board</em>?',
+            '¿Qué infraestructura es obligatoria para garantizar el almacenamiento seguro de la leche según BPG?',
           imagen: require('@/assets/actividad/imagen3.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'tPlace',
+              texto: 'Tanque frío de acero inoxidable.',
               esCorrecta: true,
             },
             {
               id: 'b',
-              texto: 'bNames',
+              texto: 'Pozo profundo.',
               esCorrecta: false,
             },
             {
               id: 'c',
-              texto: 'tStop',
+              texto: 'Cantinas.',
               esCorrecta: false,
             },
             {
               id: 'd',
-              texto: 'bValues',
+              texto: 'Sala de ordeño.',
               esCorrecta: false,
             },
           ],
@@ -243,28 +247,28 @@ export default {
         {
           id: 8,
           texto:
-            '¿Cuál de las siguientes capas se utiliza para añadir texto en el diseño?',
+            '¿Qué resolución del ICA establece los requisitos para certificar predios productores de leche en BPG?',
           imagen: require('@/assets/actividad/imagen4.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'tPlace',
-              esCorrecta: true,
-            },
-            {
-              id: 'b',
-              texto: 'bNames',
+              texto: 'Resolución 2674 de 2013.',
               esCorrecta: false,
             },
             {
+              id: 'b',
+              texto: 'Resolución 67449 de 2020.',
+              esCorrecta: true,
+            },
+            {
               id: 'c',
-              texto: 'tStop',
+              texto: 'Resolución 136 de 2020.',
               esCorrecta: false,
             },
             {
               id: 'd',
-              texto: 'bValues',
+              texto: 'Decreto 1072 de 2015.',
               esCorrecta: false,
             },
           ],
@@ -274,19 +278,29 @@ export default {
         {
           id: 9,
           texto:
-            'La herramienta <em>Text</em> en la ventana <em>Board</em> solo permite cambiar el color de las capas.',
+            '¿Qué elemento es fundamental para reducir el riesgo de mastitis y garantizar la calidad higiénica de la leche?',
           imagen: require('@/assets/actividad/imagen1.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'Verdadero',
+              texto: 'Uso de medicamentos sin control.',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'Falso',
+              texto: 'Ordeño al azar sin rutina.',
+              esCorrecta: false,
+            },
+            {
+              id: 'c',
+              texto: 'Rutina adecuada de ordeño.',
               esCorrecta: true,
+            },
+            {
+              id: 'd',
+              texto: 'Alimentación excesiva.',
+              esCorrecta: false,
             },
           ],
           mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
@@ -295,124 +309,29 @@ export default {
         {
           id: 10,
           texto:
-            'La herramienta <em>Layer</em> permite seleccionar y editar capas para definir márgenes, pistas y componentes.',
+            '¿Cuál es una buena práctica recomendada para el manejo de estiércol en predios lecheros?',
           imagen: require('@/assets/actividad/imagen2.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'Verdadero',
-              esCorrecta: true,
-            },
-            {
-              id: 'b',
-              texto: 'Falso',
-              esCorrecta: false,
-            },
-          ],
-          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
-          mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
-        },
-        {
-          id: 11,
-          texto:
-            'El botón "<em>BOARD</em>" en EAGLE solo sirve para borrar componentes en el diseño.',
-          imagen: require('@/assets/actividad/imagen3.png'),
-          barajarRespuestas: true,
-          opciones: [
-            {
-              id: 'a',
-              texto: 'Verdadero',
+              texto: 'Dejarlo al aire libre en los potreros.',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'Falso',
-              esCorrecta: true,
-            },
-          ],
-          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
-          mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
-        },
-        {
-          id: 12,
-          texto:
-            'La herramienta <em>Show</em> permite resaltar conexiones para facilitar la identificación de redes.',
-          imagen: require('@/assets/actividad/imagen4.png'),
-          barajarRespuestas: true,
-          opciones: [
-            {
-              id: 'a',
-              texto: 'Verdadero',
-              esCorrecta: true,
-            },
-            {
-              id: 'b',
-              texto: 'Falso',
-              esCorrecta: false,
-            },
-          ],
-          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
-          mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
-        },
-        {
-          id: 13,
-          texto:
-            'La función <em>Auto</em> se utiliza para enrutado automático en la ventana <em>Board</em>.',
-          imagen: require('@/assets/actividad/imagen1.png'),
-          barajarRespuestas: true,
-          opciones: [
-            {
-              id: 'a',
-              texto: 'Verdadero',
-              esCorrecta: true,
-            },
-            {
-              id: 'b',
-              texto: 'Falso',
-              esCorrecta: false,
-            },
-          ],
-          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
-          mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
-        },
-        {
-          id: 14,
-          texto:
-            'La herramienta <em>Route</em> en la ventana <em>Board</em> ajusta automáticamente todas las pistas del diseño.',
-          imagen: require('@/assets/actividad/imagen2.png'),
-          barajarRespuestas: true,
-          opciones: [
-            {
-              id: 'a',
-              texto: 'Verdadero',
+              texto: 'Enterrarlos.',
               esCorrecta: false,
             },
             {
-              id: 'b',
-              texto: 'Falso',
-              esCorrecta: true,
-            },
-          ],
-          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
-          mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
-        },
-        {
-          id: 15,
-          texto:
-            'Es recomendable organizar los componentes en bloques funcionales como transformación y filtrado en la ventana <em>Board</em>.',
-          imagen: require('@/assets/actividad/imagen3.png'),
-          barajarRespuestas: true,
-          opciones: [
-            {
-              id: 'a',
-              texto: 'Verdadero',
-              esCorrecta: true,
-            },
-            {
-              id: 'b',
-              texto: 'Falso',
+              id: 'c',
+              texto: 'Desecharlo en cuerpos de agua.',
               esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto: 'Realizar compostaje controlado.',
+              esCorrecta: true,
             },
           ],
           mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
