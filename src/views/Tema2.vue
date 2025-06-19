@@ -213,7 +213,7 @@
                       figure.d-none.d-xl-block.mb-3
                         img(src='@/assets/curso/temas/img30.png', alt="" style="max-width: 400px").m-auto
                   h3 Especializado
-                  p.mb-0 Representa el 30 % de las cabezas de ganado, aporta el 50 % de la producción nacional. Ubicado en zonas de trópico alto (clima frío), cerca de centros poblados. Utiliza razas Bos taurus (europeas), alimentación con suplementos, ordeño mecánico, producción alta, los machos son descartados tempranamente.
+                  p.mb-0 Representa el 30 % de las cabezas de ganado y aporta el 50 % de la producción nacional. Ubicado en zonas de trópico alto (clima frío), cerca de centros poblados. Utiliza razas Bos taurus (europeas), alimentación con suplementos, ordeño mecánico, producción alta; los machos son descartados tempranamente.
 
               .col-xl-6.espacio___movil_3(data-aos="zoom-in")
                 .tarjeta--boton.p-5.h-100.estilo___caja_8
@@ -222,14 +222,14 @@
                       figure.d-none.d-xl-block.mb-3
                         img(src='@/assets/curso/temas/img31.png', alt="" style="max-width: 400px").m-auto
                   h3 Doble propósito
-                  p.mb-0 Representa el 70 % del hato. Predomina en zonas bajas tropicales y apartadas. Razas cruzadas entre <em>Bos indicus</em> y <em>Bos taurus</em>. Alimentación extensiva con forrajes, crías permanecen con la madre hasta el destete. Sistema ampliamente usado por la resistencia de los animales.
+                  p.mb-0 Representa el 70 % del hato. Predomina en zonas bajas tropicales y apartadas. Razas cruzadas entre <em>Bos indicus</em> y <em>Bos taurus</em>. Alimentación extensiva con forrajes; las crías permanecen con la madre hasta el destete. Sistema ampliamente usado por la resistencia de los animales.
 
         <!-- BLOQUE 2 -->
         Separador
         #t_2_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
           h2 2.2 Infraestructura
         
-        p.mb-5 Las explotaciones ganaderas presentan particularidades <strong>biológicas, socioculturales y económicas</strong> que las diferencian de otros sectores productivos. A pesar de estas especificidades, se rigen, como cualquier otra empresa, por el criterio de <strong>costo/beneficio</strong>. La empresa ganadera lechera puede entenderse como un <strong>sistema dinámico de organización</strong>, en constante evolución, donde el espacio productivo — aunque finito y exclusivo en un momento determinado — puede <strong>ampliarse o contraerse con el tiempo</strong>.
+        p.mb-5 Las explotaciones ganaderas presentan particularidades <strong>biológicas, socioculturales y económicas</strong> que las diferencian de otros sectores productivos. A pesar de estas especificidades, se rigen, como cualquier otra empresa, por el criterio de <strong>costo/beneficio</strong>. La empresa ganadera lechera puede entenderse como un <strong>sistema dinámico de organización</strong>, en constante evolución, donde el espacio productivo aunque finito y exclusivo en un momento determinado puede <strong>ampliarse o contraerse con el tiempo</strong>.
     
     .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5.mb-5.espacio___movil_1(data-aos="zoom-in")
       .bloque-texto-g__img(

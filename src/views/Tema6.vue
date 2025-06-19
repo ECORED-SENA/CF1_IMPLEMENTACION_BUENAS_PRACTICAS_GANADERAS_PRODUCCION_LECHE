@@ -155,7 +155,7 @@
             tbody
               tr.ajuste-color-tabla
                 td.ajuste-border-tabla Biológicos
-                td.texto-left E. coli, Salmonella spp., Listeria monocytogenes.
+                td.texto-left <em>E. coli, Salmonella spp., Listeria monocytogenes</em>.
               tr
                 td.ajuste-border-tabla Químicos
                 td.texto-left Residuos de antibióticos, plaguicidas, metales pesados.

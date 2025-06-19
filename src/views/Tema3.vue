@@ -100,7 +100,7 @@
                         <li class="mb-3"><span class="fa-li"><i class="fas fa-hat-cowboy-side color___li"></i></span>Uso de medicamentos formulados según rotulado.</li>
                         <li class="mb-3"><span class="fa-li"><i class="fas fa-hat-cowboy-side color___li"></i></span>Medicamentos de control especial.</li>
                         <li class="mb-3"><span class="fa-li"><i class="fas fa-hat-cowboy-side color___li"></i></span>Registro oficial de tratamientos veterinarios.</li>
-                        <li class="mb-3"><span class="fa-li"><i class="fas fa-hat-cowboy-side color___li"></i></span>Respeto de tiempo de retiro y periodo de carencia.</li>
+                        <li class="mb-3"><span class="fa-li"><i class="fas fa-hat-cowboy-side color___li"></i></span>Respeto del tiempo de retiro y periodo de carencia.</li>
                         <li class="mb-3"><span class="fa-li"><i class="fas fa-hat-cowboy-side color___li"></i></span>Uso de promotores de crecimiento con registro ICA.</li>
                         <li class="mb-3"><span class="fa-li"><i class="fas fa-hat-cowboy-side color___li"></i></span>Prohibiciones en la alimentación animal.</li>
                         <li class="mb-0"><span class="fa-li"><i class="fas fa-hat-cowboy-side color___li"></i></span>Disposición temporal de agujas.</li>
@@ -137,7 +137,7 @@
             figure.d-none.d-xl-block
               img.ajuste___img(src='@/assets/curso/temas/img59.jpg', alt="" style="max-width: 300px").m-auto
 
-    p.mb-5.espacio___movil_1 Estas intervenciones <strong>no requieren grandes inversiones económicas</strong>, sino principalmente <strong>tiempo y disposición</strong> por parte de los productores y del personal involucrado, para que los cambios generen un efecto positivo. La correcta aplicación de las BPG genera <strong>múltiples beneficios</strong> para las unidades productivas como:
+    p.mb-5.espacio___movil_1 Estas intervenciones <strong>no requieren grandes inversiones económicas</strong>, sino principalmente <strong>tiempo y disposición</strong> por parte de los productores y del personal involucrado, para que los cambios generen un efecto positivo. La correcta aplicación de las BPG genera <strong>múltiples beneficios</strong> para las unidades productivas, como:
 
     .row.justify-content-center.espacio___movil_1
       .col-xl-10

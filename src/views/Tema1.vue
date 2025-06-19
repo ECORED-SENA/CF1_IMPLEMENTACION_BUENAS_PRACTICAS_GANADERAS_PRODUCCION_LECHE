@@ -24,7 +24,7 @@
             figure.d-none.d-xl-block(data-aos="fade-right")
               img(src='@/assets/curso/temas/img3.png', alt="" style="max-width: 400px").m-auto
           .col-xl
-            p.mb-0.estilo___caja_3.espacio___movil_1(data-aos="fade-left") “El ganado lechero moderno es el resultado de generaciones de mejoramiento genético y adaptación, lo que permite obtener animales altamente productivos en leche, pero también más sensibles al manejo, al clima y a la nutrición.” — FAO, Manual de Producción Lechera Tropical, 2020.
+            p.mb-0.estilo___caja_3.espacio___movil_1(data-aos="fade-left") “El ganado lechero moderno es el resultado de generaciones de mejoramiento genético y adaptación, lo que permite obtener animales altamente productivos en leche, pero también más sensibles al manejo, al clima y a la nutrición”. — FAO, Manual de Producción Lechera Tropical, 2020.
 
     <!-- BLOQUE 1 -->
     Separador

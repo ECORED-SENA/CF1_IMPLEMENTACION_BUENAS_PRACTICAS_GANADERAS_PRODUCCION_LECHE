@@ -32,7 +32,7 @@
                 .bloque-texto-b.color-primario.mb-5(data-aos="fade-left")
                   .bloque-texto-b__texto
                     i.fas.fa-quote-left
-                    h3.mb-0 Está sano, cómodo, bien alimentado, seguro, puede expresar su comportamiento natural, y no sufre de dolor, miedo o angustia
+                    h3.mb-0 Está sano, cómodo, bien alimentado, seguro, puede expresar su comportamiento natural y no sufre de dolor, miedo o angustia.
                     i.fas.fa-quote-right
         
         p.mb-0 En la ganadería bovina de leche, esto implica diseñar sistemas de producción que respondan a las <strong>necesidades biológicas y comportamentales del animal</strong> durante todas las etapas de su vida productiva.
@@ -50,7 +50,7 @@
           .col-8
             img(src='@/assets/curso/temas/img66.svg' style="max-width: 90px").m-auto
         h4.mb-3.estilo-text Libre de hambre, sed y desnutrición
-        p.mb-0 Acceso a agååua fresca y dieta que mantenga salud y vigor.
+        p.mb-0 Acceso a agua fresca y dieta que mantenga salud y vigor.
       .tarjeta.color-acento-botones.p-4.color___tarjeta
         .row.justify-content-center.mb-3
           .col-8
