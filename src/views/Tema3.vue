@@ -59,7 +59,7 @@
             h4.mb-4 Lo invitamos a escuchar el siguiente <em>Podcast</em>:
             TarjetaAudio.color-acento-contenido.mb-3(
               texto="Beneficios de las Buenas Prácticas Ganaderas en la producción lechera bovina"
-              :audio="require('@/assets/componentes/audios/audio-ej.mp3')"
+              :audio="require('@/assets/componentes/audios/Podcast_CF01_Implementacion_Buenas_Practicas_Ganaderas_producción_leche.mp3')"
               @audio-hover="mostrarIndicadorTarjetaAudio = false"
             )
 
