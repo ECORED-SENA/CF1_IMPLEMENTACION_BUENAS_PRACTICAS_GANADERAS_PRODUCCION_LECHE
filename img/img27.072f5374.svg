@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="610" height="286" viewBox="0 0 610 286">
+  <g id="Group_1111242" data-name="Group 1111242" transform="translate(-495.051 -3617)">
+    <rect id="Rectangle_404551" data-name="Rectangle 404551" width="610" height="286" transform="translate(495.051 3617)" fill="#fdf7ee"/>
+    <g id="Group_1111241" data-name="Group 1111241" transform="translate(88 16)">
+      <rect id="Rectangle_404548" data-name="Rectangle 404548" width="190" height="45" transform="translate(620.051 3631)" fill="#ffd63c"/>
+      <text id="Producción" transform="translate(675.051 3659)" fill="#12263f" font-size="16" font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="0" y="0">Producción</tspan></text>
+      <rect id="Rectangle_404549" data-name="Rectangle 404549" width="162" height="45" transform="translate(438.051 3808)" fill="#f7dbb0"/>
+      <text id="Caja" transform="translate(503.051 3836)" fill="#12263f" font-size="16" font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="0" y="0">Caja</tspan></text>
+      <rect id="Rectangle_404550" data-name="Rectangle 404550" width="156" height="45" transform="translate(830.051 3808)" fill="#cbecd4"/>
+      <text id="Familia" transform="translate(882.051 3836)" fill="#12263f" font-size="16" font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="0" y="0">Familia</tspan></text>
+      <g id="Group_1111238" data-name="Group 1111238" transform="translate(20)">
+        <path id="Path_900082" data-name="Path 900082" d="M-4876.051-7691.5h190" transform="translate(5476.051 11522)" fill="none" stroke="#02a52e" stroke-linecap="round" stroke-width="2"/>
+        <path id="Polygon_1" data-name="Polygon 1" d="M6,0l6,10H0Z" transform="translate(795.051 3825) rotate(90)" fill="#02a52e"/>
+        <path id="Polygon_2" data-name="Polygon 2" d="M6,0l6,10H0Z" transform="translate(597.051 3837) rotate(-90)" fill="#02a52e"/>
+      </g>
+      <text id="Flujos_financieros" data-name="Flujos financieros" transform="translate(658.051 3821)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Flujos financieros</tspan></text>
+      <g id="Group_1111239" data-name="Group 1111239" transform="translate(-2570.354 1522.256) rotate(-45)">
+        <path id="Path_900082-2" data-name="Path 900082" d="M-4876.051-7691.5h149.6" transform="translate(5492.314 11522.707)" fill="none" stroke="#ac987a" stroke-linecap="round" stroke-width="2"/>
+        <path id="Polygon_1-2" data-name="Polygon 1" d="M6,0l6,10H0Z" transform="translate(774.545 3825.707) rotate(90)" fill="#ac987a"/>
+        <path id="Polygon_2-2" data-name="Polygon 2" d="M6,0l6,10H0Z" transform="translate(608.365 3837) rotate(-90)" fill="#ac987a"/>
+      </g>
+      <g id="Group_1111240" data-name="Group 1111240" transform="translate(739.493 3679.253) rotate(45)">
+        <path id="Path_900082-3" data-name="Path 900082" d="M0,0H149.6" transform="translate(7.899 6.5)" fill="none" stroke="#ffd63c" stroke-linecap="round" stroke-width="2"/>
+        <path id="Polygon_1-3" data-name="Polygon 1" d="M6,0l6,10H0Z" transform="translate(166.18 0.001) rotate(90)" fill="#ffd63c"/>
+        <path id="Polygon_2-3" data-name="Polygon 2" d="M6,0l6,10H0Z" transform="translate(0 12.707) rotate(-90)" fill="#ffd63c"/>
+      </g>
+      <text id="Flujos_financieros-2" data-name="Flujos financieros" transform="translate(577.746 3780.583) rotate(-45)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Flujos financieros</tspan></text>
+      <text id="Flujos_en_especie" data-name="Flujos en especie" transform="translate(758.056 3693.609) rotate(45)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Flujos en especie</tspan></text>
+    </g>
+  </g>
+</svg>
