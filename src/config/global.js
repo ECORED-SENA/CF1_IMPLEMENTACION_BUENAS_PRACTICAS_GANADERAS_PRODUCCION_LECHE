@@ -1,7 +1,7 @@
 export default {
   global: {
     Name:
-      'Conceptualización en buenas prácticas ganaderas para bovinos en la producción de leche',
+      'Principios de las buenas prácticas ganaderas en la producción de leche',
     Description:
       'Este componente formativo aborda la implementación de Buenas Prácticas Ganaderas en la producción de leche bovina, enfocándose en la sanidad, bienestar animal, inocuidad, sostenibilidad y cumplimiento normativo. Proporciona herramientas para optimizar procesos productivos, garantizar la calidad de la leche y fortalecer la competitividad del sector, promoviendo sistemas ganaderos responsables, eficientes y ambientalmente sostenibles.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),

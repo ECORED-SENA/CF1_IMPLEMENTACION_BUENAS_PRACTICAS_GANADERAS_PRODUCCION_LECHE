@@ -1,2 +1,2 @@
 module.exports =
-  'Conceptualización en buenas prácticas ganaderas para bovinos en la producción de leche'
+  'Principios de las buenas prácticas ganaderas en la producción de leche'
