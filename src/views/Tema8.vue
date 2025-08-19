@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido(data-aos="flip-up")
       .titulo-principal__numero
         span 8
-      h1 Gestión Ambiental en la Producción de Leche según la Certificación en Buenas Prácticas Ganaderas (BPG)
+      h1 Gestión ambiental en la producción de leche según la certificación en Buenas Prácticas Ganaderas (BPG)
 
     .fondo___color_8
       .px-5
@@ -18,7 +18,7 @@
     
         <!-- BLOQUE 1 -->
         #t_8_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-          h2 8.1 Beneficios Ambientales de la Certificación BPG
+          h2 8.1 Beneficios ambientales de la certificación BPG
 
         p.mb-5 La certificación BPG incorpora prácticas orientadas a optimizar los recursos naturales, minimizar la contaminación, y mitigar los efectos del cambio climático, contribuyendo a la sostenibilidad del sistema lechero. A continuación se detallan sus principales beneficios:
 

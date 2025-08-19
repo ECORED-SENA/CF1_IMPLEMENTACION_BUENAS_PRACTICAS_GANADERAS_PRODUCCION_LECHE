@@ -12,7 +12,7 @@
         :style="{'background-image': `url(${require('@/assets/curso/temas/img11.jpg')})`}"
       )
       .bloque-texto-g__texto.p-4
-        p.mb-0 Una <strong>empresa ganadera bovina de leche</strong> es una unidad económica y productiva organizada que combina diversos factores —tierra, mano de obra, capital y tecnología— con el fin de <strong>producir leche destinada al mercado</strong>. Esta empresa se constituye como centro de control y toma de decisiones, operando bajo principios técnicos, sanitarios, ambientales y sociales, de acuerdo con los lineamientos de las <strong>Buenas Prácticas Ganaderas (BPG)</strong>.
+        p.mb-0 Una <strong>empresa ganadera bovina de leche</strong> es una unidad económica y productiva organizada que combina diversos factores tierra, mano de obra, capital y tecnología con el fin de <strong>producir leche destinada al mercado</strong>. Esta empresa se constituye como centro de control y toma de decisiones, operando bajo principios técnicos, sanitarios, ambientales y sociales, de acuerdo con los lineamientos de las <strong>Buenas Prácticas Ganaderas (BPG)</strong>.
     
     .row.justify-content-center.mb-5
       .col-xl-10.espacio___movil_1(data-aos="zoom-in")
@@ -66,7 +66,7 @@
             <ul class="fa-ul estilo___ul">
               <li class="mb-2"><span class="fa-li"><i class="fas fa-hat-cowboy-side color___li"></i></span>Total de animales: 29.194.104 bovinos.</li>
               <li class="mb-2"><span class="fa-li"><i class="fas fa-hat-cowboy-side color___li"></i></span>Número de predios: 638.941.</li>
-              <li class="mb-0"><span class="fa-li"><i class="fas fa-hat-cowboy-side color___li"></i></span>Variación anual: Disminución del 1,5% respecto a 2023.</li>
+              <li class="mb-0"><span class="fa-li"><i class="fas fa-hat-cowboy-side color___li"></i></span>Variación anual: Disminución del 1,5 % respecto a 2023.</li>
             </ul>
           .col-xl-auto
             figure.d-none.d-xl-block

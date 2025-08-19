@@ -156,7 +156,7 @@
     <!-- BLOQUE 5 -->
     Separador
     #t_3_5.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2 3.5 Marco Legal en Colombia
+      h2 3.5 Marco legal en Colombia
 
     p.mb-5 La implementación de las BPG en la producción de leche en Colombia está respaldada por un conjunto de normas emitidas por autoridades nacionales. Entre las más relevantes se encuentran:
 

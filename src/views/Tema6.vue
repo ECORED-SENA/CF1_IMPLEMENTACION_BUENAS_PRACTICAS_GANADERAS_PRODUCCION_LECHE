@@ -99,7 +99,7 @@
     <!-- BLOQUE 4 -->
     Separador
     #t_6_4.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2 6.4 Impacto en la Salud Humana
+      h2 6.4 Impacto en la salud humana
 
     .fondo___color_1
       .px-5

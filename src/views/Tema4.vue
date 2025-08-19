@@ -40,7 +40,7 @@
     <!-- BLOQUE 2 -->
     Separador
     #t_4_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2 4.2 Las Cinco Libertades del Bienestar Animal
+      h2 4.2 Las cinco libertades del bienestar animal
 
     p.mb-5 Propuestas por el <em>Farm Animal Welfare Council (FAWC)</em> del Reino Unido y reconocidas internacionalmente, las <strong>cinco libertades</strong> son:
 
@@ -158,7 +158,7 @@
     <!-- BLOQUE 4 -->
     Separador
     #t_4_4.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2 4.4 Bienestar Animal en el marco legal colombiano
+      h2 4.4 Bienestar animal en el marco legal colombiano
     
     p.mb-5 En Colombia, el bienestar animal ha sido incorporado al marco normativo mediante diversas disposiciones:
 

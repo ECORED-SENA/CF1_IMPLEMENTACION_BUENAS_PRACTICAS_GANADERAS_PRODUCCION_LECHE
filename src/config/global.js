@@ -1,7 +1,7 @@
 export default {
   global: {
     Name:
-      'Principios de las buenas prácticas ganaderas en la producción de leche',
+      'Conceptualización en buenas prácticas ganaderas para bovinos en la producción de leche',
     Description:
       'Este componente formativo aborda la implementación de Buenas Prácticas Ganaderas en la producción de leche bovina, enfocándose en la sanidad, bienestar animal, inocuidad, sostenibilidad y cumplimiento normativo. Proporciona herramientas para optimizar procesos productivos, garantizar la calidad de la leche y fortalecer la competitividad del sector, promoviendo sistemas ganaderos responsables, eficientes y ambientalmente sostenibles.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
@@ -95,7 +95,7 @@ export default {
           },
           {
             numero: '3.5',
-            titulo: 'Marco Legal en Colombia',
+            titulo: 'Marco legal en Colombia',
             hash: 't_3_5',
           },
           {
@@ -118,7 +118,7 @@ export default {
           },
           {
             numero: '4.2',
-            titulo: 'Las Cinco Libertades del Bienestar Animal',
+            titulo: 'Las cinco libertades del bienestar animal',
             hash: 't_4_2',
           },
           {
@@ -128,7 +128,7 @@ export default {
           },
           {
             numero: '4.4',
-            titulo: 'Bienestar Animal en el marco legal colombiano',
+            titulo: 'Bienestar animal en el marco legal colombiano',
             hash: 't_4_4',
           },
           {
@@ -184,7 +184,7 @@ export default {
           },
           {
             numero: '6.4',
-            titulo: 'Impacto en la Salud Humana',
+            titulo: 'Impacto en la salud humana',
             hash: 't_6_4',
           },
           {
@@ -197,7 +197,7 @@ export default {
       {
         nombreRuta: 'tema7',
         numero: '7',
-        titulo: 'Manejo Sanitario en la Producción de Leche',
+        titulo: 'Manejo sanitario en la producción de leche',
         desarrolloContenidos: true,
         subMenu: [
           {
@@ -212,7 +212,7 @@ export default {
           },
           {
             numero: '7.3',
-            titulo: 'Enfermedades Comunes en Sistemas de Lechería',
+            titulo: 'Enfermedades comunes en sistemas de lechería',
             hash: 't_7_3',
           },
           {
@@ -241,12 +241,12 @@ export default {
         nombreRuta: 'tema8',
         numero: '8',
         titulo:
-          'Gestión Ambiental en la Producción de Leche según la Certificación en Buenas Prácticas Ganaderas (BPG)',
+          'Gestión ambiental en la producción de leche según la certificación en Buenas Prácticas Ganaderas (BPG)',
         desarrolloContenidos: true,
         subMenu: [
           {
             numero: '8.1',
-            titulo: 'Beneficios Ambientales de la Certificación BPG',
+            titulo: 'Beneficios ambientales de la certificación BPG',
             hash: 't_8_1',
           },
           {
@@ -326,7 +326,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/72312184_CF01_DU.pdf',
+        download: 'downloads/72312184_CF01_DU.zip',
       },
       {
         icono: 'fas fa-download',
@@ -519,7 +519,7 @@ export default {
         },
         {
           nombre: 'Olga Constanza Bermudez Jaimes',
-          cargo: 'Responsable de línea de producción',
+          cargo: 'Responsable de línea de producción Huila',
           centro: 'Dirección General',
         },
       ],

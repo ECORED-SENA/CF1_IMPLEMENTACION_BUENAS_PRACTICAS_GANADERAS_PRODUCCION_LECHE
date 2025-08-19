@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido(data-aos="flip-up")
       .titulo-principal__numero
         span 7
-      h1 Manejo Sanitario en la Producción de Leche
+      h1 Manejo sanitario en la producción de leche
 
     .fondo___color_8
       .px-5
@@ -138,7 +138,7 @@
     <!-- BLOQUE 3 -->
     Separador
     #t_7_3.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2 7.3 Enfermedades Comunes en Sistemas de Lechería
+      h2 7.3 Enfermedades comunes en sistemas de lechería
     
     p.mb-5 Además de las enfermedades de control oficial, existen otras patologías que <strong>afectan directamente la productividad del hato lechero</strong>:
 
